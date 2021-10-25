@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=sapphirelin&color=blue&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=sapphirelin&color=blue&label=VISTORS)
 
 <!--
 **sapphirelin/sapphirelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
