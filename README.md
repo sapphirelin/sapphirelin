@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=sapphirelin&color=blue&label=VISTORS)
+- 🔭 I’m currently working at a American cloud computing and virtualization technology company
+- 🌱 I’m currently learning Cloud Native / Kuberentes / DevOps
+- 📫 Reach me at [my Work Hack Blog](https://sapphirelin.github.io/)
+- 
+![](https://komarev.com/ghpvc/?username=sapphirelin&color=yellowgreen&label=VISTORS)
 
 <!--
 **sapphirelin/sapphirelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
