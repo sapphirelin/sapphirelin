@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Cloud Native / Kuberentes / DevOps
 - 📫 Reach me at my [Work Hack Blog](https://sapphirelin.com/)
 
-![](https://komarev.com/ghpvc/?username=sapphirelin&color=yellowgreen&label=VISTORS)
+Since Nov.2021, ![](https://komarev.com/ghpvc/?username=sapphirelin&color=yellowgreen&label=VISTORS)
 
 <!--
 **sapphirelin/sapphirelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
